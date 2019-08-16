@@ -1,6 +1,5 @@
 """
-Cascaded Mask R-CNN
-The main Cascaded Mask R-CNN model implementation.
+Main File for the Visual Feature Embedding model
 
 """
 
